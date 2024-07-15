@@ -1,7 +1,7 @@
 # AnDi2_SU_FIONA
-This is preset version of ___ for [AnDi2 Challenge](http://andi-challenge.org/challenge-2024/#andi2seminar). To check the latest version, [click here](http://google.com).<br>
+This is preset version of ___ for [AnDi2 Challenge](http://andi-challenge.org/challenge-2024/#andi2seminar). To check the latest version, [click here](http://google.com).</br>
 
-___ detects changepoints from molecular trajectory following fBm which has two properties, Anomalous exponent and Generalized diffusion coefficient, on different scenarios.
+___ detects changepoints from molecular trajectory following fBm which has two properties, Anomalous exponent and Generalized diffusion coefficient, on different scenarios.</br>
 For the details, please check Andi2 Challenge description of above link.
 
 Visualized examples of changepoint detection.
