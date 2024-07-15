@@ -3,12 +3,13 @@
 > [!IMPORTANT]  
 > Requirements: TensorFlow 2.14.1
 
-This is preset version of ___ for [AnDi2 Challenge](http://andi-challenge.org/challenge-2024/#andi2seminar). To check the latest version of software, [click here](http://google.com).</br>
+This is preset version of ___ for [AnDi2 Challenge](http://andi-challenge.org/challenge-2024/#andi2seminar).</br>
+To check the latest version of software, [click here](http://google.com).</br>
 
 ___ detects changepoints from molecular trajectory following fBm which has two properties, Anomalous exponent and Generalized diffusion coefficient, on different scenarios.</br>
 For the details, please check Andi2 Challenge description of above link.
 
-<h2>Visualized examples of changepoint detection from molecular trajectories.</h2>
+<h2>Visualized examples of changepoint detection from molecular trajectories</h2>
 <table border="0"> 
         <tr> 
             <td>QTM</td> 
