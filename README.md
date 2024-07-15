@@ -63,6 +63,10 @@ ___ has three major parameters to tune the quality of result, </br>
 
 </br>
 
+> [!NOTICE]  
+> ___ takes around 1hr for 1,000 trajectories with default settings on a single L4/RTX3090 chip. </br>
+
+
 <h3> To remake a result on AnDi2 dataset </h3>
 
 1. Clone the repository.</br>
