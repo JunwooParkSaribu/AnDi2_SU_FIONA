@@ -7,10 +7,10 @@
 > - latest version of [scikit-learn](https://scikit-learn.org/stable/)[^3]
 > - latest version of [scikit-image](https://scikit-image.org/docs/stable/user_guide/install.html)[^4]
 
-------------------------------------------------------------------------------------------------------------------------------------- </br>
+---------------------------------------------------------------------------------------------------- </br>
 <b>*** This is a preset version of ___ for [AnDi2 Challenge](http://andi-challenge.org/challenge-2024/#andi2seminar). ***</b></br>
 To check the latest version of the software, [click here](http://google.com).</br>
-------------------------------------------------------------------------------------------------------------------------------------- </br>
+---------------------------------------------------------------------------------------------------- </br>
 
 ___ detects changepoints from molecular trajectory following fBm which has two properties, Anomalous exponent and Generalized diffusion coefficient, on different scenarios.</br>
 For the details of used data and scenarios, please check Andi2 Challenge[^1][^2] description of above link.
