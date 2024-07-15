@@ -9,7 +9,7 @@
 
 ---------------------------------------------------------------------------------------------------- </br>
 <b>*** This is a preset version of ___ for [AnDi2 Challenge](http://andi-challenge.org/challenge-2024/#andi2seminar) final-phase datasets. ***</b></br>
-To check the general version of the software, [click here](http://google.com).</br>
+The general version of the software will be available soon.</br>
 ---------------------------------------------------------------------------------------------------- </br>
 
 ___ detects changepoints from molecular trajectory following fBm which has two properties, Anomalous exponent and Generalized diffusion coefficient, on different scenarios.</br>
