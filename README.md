@@ -11,7 +11,7 @@
 To check the latest version of the software, [click here](http://google.com).</br>
 
 ___ detects changepoints from molecular trajectory following fBm which has two properties, Anomalous exponent and Generalized diffusion coefficient, on different scenarios.</br>
-For the details of used data and scenarios, please check Andi2 Challenge[^1][^2] description of above link.
+For the details of used data and scenarios, please check Andi2 Challenge[^1] description of above link.
 
 <h2>Visualized examples of changepoint detection from molecular trajectories</h2>
 <table border="0"> 
@@ -57,7 +57,7 @@ ___ has three major parameters to tune the quality of result, </br>
 <b>(1) A threshold of the signal</b></br> 
 <b>(2) Sizes of sliding windows</b></br>
 <b>(3) Number of states</b> in the prior distribution.</br>
-(1) acts as FN controller. low threshold decrease FN, but increase time complexity. (2) is related to the transition probability between trajectory-states. When the transition events occur frequently, it needs to use small sizes of sliding windows and vice versa. (3) is related to the hidden number of states of molecular trajectories. The default parameters of (1), (2) are sufficient in general cases, however (3) need to be carefully chosen since it may produce many FP if we select too high number of states. To help choosing the number of sates for (3), we generate a plot of prior distribution after building it. then, we can select its number (2/3 in general cases). The estimations of alpha and K are done with ConvLSTM [^5] and Dense layers [^6].
+(1) acts as FN controller. low threshold decrease FN, but increase time complexity. (2) is related to the transition probability between trajectory-states. When the transition events occur frequently, it needs to use small sizes of sliding windows and vice versa. (3) is related to the hidden number of states of molecular trajectories. The default parameters of (1), (2) are sufficient in general cases, however (3) need to be carefully chosen since it may produce many FP if we select too high number of states. To help choosing the number of sates for (3), we generate a plot of prior distribution after building it. then, we can select its number (2/3 in general cases). The estimations of alpha and K are done with ConvLSTM[^5] and Dense layers [^6].
 
 </br>
 <h3> To remake a result on AnDi2 dataset </h3>
