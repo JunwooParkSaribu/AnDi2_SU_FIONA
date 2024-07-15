@@ -15,6 +15,8 @@ __ preset of AnDi2 Challenge
             <td><img src="https://github.com/JunwooParkSaribu/AnDi2_SU_FIONA/blob/main/tmps/imgs/track2_exp2_idx9.0.gif" width="128" height="128"></td>
             <td><img src="https://github.com/JunwooParkSaribu/AnDi2_SU_FIONA/blob/main/tmps/imgs/track2_exp2_idx9.0.gif" width="128" height="128"></td> 
         </tr>  
-            yellow:, red:
-
-    </table> 
+</table>
+yellow:, red:
+</br>
+</br>
+This is ~
