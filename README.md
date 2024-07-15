@@ -48,7 +48,7 @@ For the details of used data and scenarios, please check Andi2 Challenge[^1][^2]
             <td><img src="https://github.com/JunwooParkSaribu/AnDi2_SU_FIONA/blob/main/tmps/imgs/msm_4.gif" width="128" height="128"></td> 
         </tr>  
 </table>
-<img src="https://github.com/JunwooParkSaribu/AnDi2_SU_FIONA/blob/main/tmps/imgs/foot.png" width="164" height="48"></br>
+<img src="https://github.com/JunwooParkSaribu/AnDi2_SU_FIONA/blob/main/tmps/imgs/foot.png" width="164" height="52"></br>
 
 ___ detects changes of anomalous exponent(alpha) / diffusion coefficient(K) in a single molecular trajectory level. 
 
