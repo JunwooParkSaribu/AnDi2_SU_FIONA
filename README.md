@@ -4,7 +4,7 @@
 > Requirements </br>
 > - TensorFlow 2.14.1
 
-This is preset version of ___ for [AnDi2 Challenge](http://andi-challenge.org/challenge-2024/#andi2seminar).</br>
+<b>*** This is preset version of ___ for [AnDi2 Challenge](http://andi-challenge.org/challenge-2024/#andi2seminar). ***</b></br>
 To check the latest version of the software, [click here](http://google.com).</br>
 
 ___ detects changepoints from molecular trajectory following fBm which has two properties, Anomalous exponent and Generalized diffusion coefficient, on different scenarios.</br>
