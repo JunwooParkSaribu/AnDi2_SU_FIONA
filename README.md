@@ -26,7 +26,7 @@ $${\color{red}Red}$$ : detected changepoints </br>
 $${\color{yellow}Yellow}$$ : Trajectories </br>
 
 
-> [!NOTE]  
+> [!DESCRIPTION]  
 > Highlights information that users should take into account, even when skimming.
 
 > [!TIP]
