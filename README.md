@@ -21,7 +21,20 @@ Visualized examples of changepoint detection from molecular trajectories.
             <td><img src="https://github.com/JunwooParkSaribu/AnDi2_SU_FIONA/blob/main/tmps/imgs/track2_exp2_idx9.0.gif" width="128" height="128"></td> 
         </tr>  
 </table>
-$${\color{red}Red}$$
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
+
+> [!TIP]
+> Optional information to help a user be more successful.
+
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]  
+> Critical content demanding immediate user attention due to potential risks.
+
+> [!CAUTION]
+> Negative potential consequences of an action.
 </br>
 </br>
 ___ is ~~~
