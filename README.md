@@ -22,6 +22,9 @@ Visualized examples of changepoint detection from molecular trajectories.
         </tr>  
 </table>
 
+$${\color{red}Red}$$
+
+
 > [!NOTE]  
 > Highlights information that users should take into account, even when skimming.
 
