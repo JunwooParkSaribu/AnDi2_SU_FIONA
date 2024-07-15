@@ -1,4 +1,8 @@
 # AnDi2_SU_FIONA
+
+> [!IMPORTANT]  
+> Requirements: TensorFlow 2.14.1
+
 This is preset version of ___ for [AnDi2 Challenge](http://andi-challenge.org/challenge-2024/#andi2seminar). To check the latest version of software, [click here](http://google.com).</br>
 
 ___ detects changepoints from molecular trajectory following fBm which has two properties, Anomalous exponent and Generalized diffusion coefficient, on different scenarios.</br>
@@ -26,8 +30,6 @@ $${\color{red}Red}$$ : detected changepoints </br>
 $${\color{yellow}Yellow}$$ : Trajectories </br>
 
 
-> [!IMPORTANT]  
-> Requirements: TensorFlow 2.14.1
 
 
 </br>
