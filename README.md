@@ -34,6 +34,12 @@ Text content
 + This is a green colored line
 @@ This is a purple colored line @@
 ```
+
+<style>
+H1{color:Blue !important;}
+H2{color:DarkOrange !important;}
+p{color:Black !important;}
+</style>
 </br>
 </br>
 ___ is ~~~
