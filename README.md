@@ -65,3 +65,6 @@ ___ has three major parameters to tune the quality of result, </br>
 2. Download pre-trained models from here, place the models folder inside of the cloned folder.</br>
 3. Run run_process script with python.</br>
 
+
+<h3> References </h3>
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10259556.svg)](https://doi.org/10.5281/zenodo.10259556)
