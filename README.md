@@ -8,4 +8,4 @@ __ preset of AnDi2 Challenge
 
 
 
-<img src="https://github.com/JunwooParkSaribu/AnDi2_SU_FIONA/blob/main/tmps/imgs/track2_exp2_idx9.0.gif" alt="Alt text">
+<img src="https://github.com/JunwooParkSaribu/AnDi2_SU_FIONA/blob/main/tmps/imgs/track2_exp2_idx9.0.gif" alt="Alt text" width="512" height="512">
