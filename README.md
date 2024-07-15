@@ -8,7 +8,7 @@ This is preset version of ___ for [AnDi2 Challenge](http://andi-challenge.org/ch
 ___ detects changepoints from molecular trajectory following fBm which has two properties, Anomalous exponent and Generalized diffusion coefficient, on different scenarios.</br>
 For the details, please check Andi2 Challenge description of above link.
 
-Visualized examples of changepoint detection from molecular trajectories.
+<h2>Visualized examples of changepoint detection from molecular trajectories.</h2>
 <table border="0"> 
         <tr> 
             <td>QTM</td> 
