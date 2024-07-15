@@ -64,7 +64,7 @@ ___ has three major parameters to tune the quality of result, </br>
 </br>
 
 > [!NOTE]
-> ___ takes around 1hr for the inference of 1,000 trajectories with default settings on a single L4 / RTX3090 chip. We don't recommend to the inference on large datasets without GPU or M1/M2 chips.</br>
+> ___ takes around 1hr for the inference of 1,000 trajectories with default settings on a single L4 / RTX3090 chip. We don't recommend to the inference on large datasets without GPU or M1 / M2 chips.</br>
 
 
 <h3> To remake a result on AnDi2 dataset </h3>
