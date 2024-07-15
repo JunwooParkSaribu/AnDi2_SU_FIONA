@@ -22,7 +22,7 @@ Visualized examples of changepoint detection from molecular trajectories.
         </tr>  
 </table>
 
-$${\color{red}Red}$$
+$${\color{red}Red : detected changepoints}$$
 
 
 > [!NOTE]  
