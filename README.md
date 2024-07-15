@@ -62,7 +62,7 @@ ___ has three major parameters to tune the quality of result, </br>
 </br>
 <h3> To remake a result on AnDi2 dataset </h3>
 1. Clone the repository.</br>
-2. Download pre-trained models from here, place the models folder inside of the cloned folder.</br>
+2. Download pre-trained models from here, place the models[^5] folder inside of the cloned folder.</br>
 3. Run run_process script with python.</br>
 
 
