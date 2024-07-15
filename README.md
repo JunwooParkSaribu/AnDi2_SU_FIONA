@@ -4,8 +4,8 @@
 > Requirements </br>
 > - TensorFlow 2.14.1
 > - Python 3.10 or higher
-> - latest version of [scikit-learn](https://scikit-learn.org/stable/)
-> - latest version of [scikit-image](https://scikit-image.org/docs/stable/user_guide/install.html)
+> - latest version of [scikit-learn](https://scikit-learn.org/stable/)[^3]
+> - latest version of [scikit-image](https://scikit-image.org/docs/stable/user_guide/install.html)[^4]
 
 <b>*** This is a preset version of ___ for [AnDi2 Challenge](http://andi-challenge.org/challenge-2024/#andi2seminar). ***</b></br>
 To check the latest version of the software, [click here](http://google.com).</br>
@@ -70,7 +70,7 @@ ___ has three major parameters to tune the quality of result, </br>
 
 [^1]: [AnDi datasets](https://doi.org/10.5281/zenodo.10259556)
 [^2]: Quantitative evaluation of methods to analyze motion changes in single-particle experiments, Gorka Muñoz-Gil et al. 2024 [https://arxiv.org/abs/2311.18100](https://arxiv.org/abs/2311.18100)
-[^3]: Scikit-learn: Machine Learning in Python, Pedregosa et al., JMLR 12, pp. 2825-2830, 2011.
-[^4]: scikit-image: Image processing in Python. PeerJ 2:e453 (2014) [https://doi.org/10.7717/peerj.453](https://doi.org/10.7717/peerj.453)
-[^5]: Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting, Xingjian Shi et al. 2015 [https://arxiv.org/abs/1506.04214](https://arxiv.org/abs/1506.04214)
-[^6]: TensorFlow: Large-scale machine learning on heterogeneous systems, 2015
+[^3]: Scikit-learn, Machine Learning in Python, Pedregosa et al., JMLR 12, pp. 2825-2830, 2011.
+[^4]: scikit-image, Image processing in Python. PeerJ 2:e453 (2014) [https://doi.org/10.7717/peerj.453](https://doi.org/10.7717/peerj.453)
+[^5]: Convolutional LSTM Network, A Machine Learning Approach for Precipitation Nowcasting, Xingjian Shi et al. 2015 [https://arxiv.org/abs/1506.04214](https://arxiv.org/abs/1506.04214)
+[^6]: TensorFlow, Large-scale machine learning on heterogeneous systems, 2015
