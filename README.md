@@ -24,6 +24,11 @@ Visualized examples of changepoint detection from molecular trajectories.
 -yellow : Trajectory, red : Detected changepoints
 <code style="color : red">text</code>
 $${\color{red}Red}$$
+
+<span style="color:red">
+Text content
+</span>
+
 </br>
 </br>
 ___ is ~~~
