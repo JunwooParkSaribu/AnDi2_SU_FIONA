@@ -25,6 +25,22 @@ Visualized examples of changepoint detection from molecular trajectories.
             <td><img src="https://github.com/JunwooParkSaribu/AnDi2_SU_FIONA/blob/main/tmps/imgs/tcm_2.gif" width="128" height="128"></td> 
             <td><img src="https://github.com/JunwooParkSaribu/AnDi2_SU_FIONA/blob/main/tmps/imgs/tcm_3.gif" width="128" height="128"></td>
             <td><img src="https://github.com/JunwooParkSaribu/AnDi2_SU_FIONA/blob/main/tmps/imgs/tcm_4.gif" width="128" height="128"></td> 
+        </tr>
+        <tr> 
+            <td>DIM</td> 
+            <td><img src="https://github.com/JunwooParkSaribu/AnDi2_SU_FIONA/blob/main/tmps/imgs/dim_0.gif" width="128" height="128"></td> 
+            <td><img src="https://github.com/JunwooParkSaribu/AnDi2_SU_FIONA/blob/main/tmps/imgs/dim_1.gif" width="128" height="128"></td>
+            <td><img src="https://github.com/JunwooParkSaribu/AnDi2_SU_FIONA/blob/main/tmps/imgs/dim_2.gif" width="128" height="128"></td> 
+            <td><img src="https://github.com/JunwooParkSaribu/AnDi2_SU_FIONA/blob/main/tmps/imgs/dim_3.gif" width="128" height="128"></td>
+            <td><img src="https://github.com/JunwooParkSaribu/AnDi2_SU_FIONA/blob/main/tmps/imgs/dim_4.gif" width="128" height="128"></td> 
+        </tr>
+        <tr> 
+            <td>MSM</td> 
+            <td><img src="https://github.com/JunwooParkSaribu/AnDi2_SU_FIONA/blob/main/tmps/imgs/msm_0.gif" width="128" height="128"></td> 
+            <td><img src="https://github.com/JunwooParkSaribu/AnDi2_SU_FIONA/blob/main/tmps/imgs/msm_1.gif" width="128" height="128"></td>
+            <td><img src="https://github.com/JunwooParkSaribu/AnDi2_SU_FIONA/blob/main/tmps/imgs/msm_2.gif" width="128" height="128"></td> 
+            <td><img src="https://github.com/JunwooParkSaribu/AnDi2_SU_FIONA/blob/main/tmps/imgs/msm_3.gif" width="128" height="128"></td>
+            <td><img src="https://github.com/JunwooParkSaribu/AnDi2_SU_FIONA/blob/main/tmps/imgs/msm_4.gif" width="128" height="128"></td> 
         </tr>  
 </table>
 
