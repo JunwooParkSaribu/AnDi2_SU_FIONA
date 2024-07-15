@@ -67,4 +67,7 @@ ___ has three major parameters to tune the quality of result, </br>
 
 
 <h3> References </h3>
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10259556.svg)](https://doi.org/10.5281/zenodo.10259556)
+
+[^1]: [AnDi datasets](https://doi.org/10.5281/zenodo.10259556)
+
+[^2]: Quantitative evaluation of methods to analyze motion changes in single-particle experiments, Gorka Muñoz-Gil et a.l. 2024 [https://arxiv.org/abs/2311.18100](https://arxiv.org/abs/2311.18100)
