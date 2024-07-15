@@ -57,6 +57,6 @@ At first, ___ builds prior distribution of alpha, K by splitting a trajectory in
 </br>
 <h3> To remake a result on AnDi2 dataset </h3>
 1. Clone the repository.</br>
-2. Download pre-trained models from here, place the models folder in the AnDi2_SU_FIONA folder.</br>
+2. Download pre-trained models from here, place the models folder inside of the cloned folder.</br>
 3. Run run_process script with python.</br>
 
