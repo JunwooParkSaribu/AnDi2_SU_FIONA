@@ -43,6 +43,7 @@ Visualized examples of changepoint detection from molecular trajectories.
             <td><img src="https://github.com/JunwooParkSaribu/AnDi2_SU_FIONA/blob/main/tmps/imgs/msm_4.gif" width="128" height="128"></td> 
         </tr>  
 </table>
+<img src="https://github.com/JunwooParkSaribu/AnDi2_SU_FIONA/blob/main/tmps/imgs/foot.png" width="128" height="32">
 
 $${\color{red}Red}$$ : detected changepoints </br>
 $${\color{yellow}Yellow}$$ : Trajectories </br>
