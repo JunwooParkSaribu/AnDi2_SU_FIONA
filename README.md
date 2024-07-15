@@ -21,7 +21,7 @@ Visualized examples of changepoint detection from molecular trajectories.
             <td><img src="https://github.com/JunwooParkSaribu/AnDi2_SU_FIONA/blob/main/tmps/imgs/track2_exp2_idx9.0.gif" width="128" height="128"></td> 
         </tr>  
 </table>
-yellow : Trajectory, red : Detected changepoints
+-yellow : Trajectory, red : Detected changepoints
 </br>
 </br>
 ___ is ~~~
