@@ -1,5 +1,5 @@
 # AnDi2_SU_FIONA
-__ preset of AnDi2 Challenge
+This is preset version of ___ for [AnDi2 Challenge](http://andi-challenge.org/challenge-2024/#andi2seminar). To check the latest version, [click here](http://google.com).
 
 
 <table border="0"> 
@@ -19,4 +19,4 @@ __ preset of AnDi2 Challenge
 yellow:, red:
 </br>
 </br>
-This is ~
+___ is ~~~
