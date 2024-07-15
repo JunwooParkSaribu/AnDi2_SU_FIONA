@@ -8,7 +8,7 @@
 > - latest version of [scikit-image](https://scikit-image.org/docs/stable/user_guide/install.html)[^4]
 
 ---------------------------------------------------------------------------------------------------- </br>
-<b>*** This is a preset version of ___ for [AnDi2 Challenge](http://andi-challenge.org/challenge-2024/#andi2seminar). ***</b></br>
+<b>*** This is a preset version of ___ for [AnDi2 Challenge](http://andi-challenge.org/challenge-2024/#andi2seminar) final-phase datasets. ***</b></br>
 To check the latest version of the software, [click here](http://google.com).</br>
 ---------------------------------------------------------------------------------------------------- </br>
 
