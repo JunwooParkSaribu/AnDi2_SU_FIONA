@@ -76,6 +76,8 @@ At first, <b>BI-ADD</b> builds prior distribution of alpha, K by splitting a tra
 3. Run *run_process.py* script with python.</br>
 4. Results will be made in the *result_final_0* folder.
 
+<h3> Contacts </h3>
+junwoo.park@sorbonne-universite.fr<br>
 
 <h3> References </h3>
 
