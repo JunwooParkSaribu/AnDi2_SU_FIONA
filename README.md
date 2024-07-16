@@ -1,4 +1,4 @@
-# BI-ADD (Bottom-up Iterative Anomalous Diffusion Detector)
+## BI-ADD (Bottom-up Iterative Anomalous Diffusion Detector)
 
 > [!IMPORTANT]  
 > Requirements </br>
