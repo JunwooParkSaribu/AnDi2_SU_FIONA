@@ -75,7 +75,7 @@ ___ has three major parameters to tune the quality of result, </br>
 1. Clone the repository on your local device.</br>
 2. Download pre-trained [*models*](https://drive.google.com/file/d/1WF0eW8Co23-mKQiHNH-KHHK_lJiIW-WC/view?usp=sharing), place the *models* folder inside of *AnDi2_SU_FIONA* folder.</br>
 3. Run *run_process.py* script with python.</br>
-4. Results will be made on the *result_final_0* folder.
+4. Results will be made in the *result_final_0* folder.
 
 
 <h3> References </h3>
