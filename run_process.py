@@ -24,7 +24,7 @@ def run_command(cmd):
 def main(data_path, result_path):
     try:
         if not os.path.exists(f'./models'):
-            raise Exception('Model not found, please download pretrained models')
+            raise Exception('Models are not found, please download pretrained models')
         for model_num in [5, 8, 12, 16, 32, 64, 128]:
             if not os.path.exists(f'./models/reg_model_{model_num}.keras'):
                 raise Exception(f'reg_model_{model_num}.keras doesn\'t exist')
