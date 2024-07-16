@@ -10,7 +10,7 @@
 
 ---------------------------------------------------------------------------------------------------- </br>
 <b>*** This is a preset version of ___ for [AnDi2 Challenge](http://andi-challenge.org/challenge-2024/#andi2seminar) final-phase datasets. ***</b></br>
-The general version of the software will be available soon.</br>
+The general version of the ___ will be available soon.</br>
 ---------------------------------------------------------------------------------------------------- </br>
 
 ___ detects changepoints from molecular trajectory following fBm which has two properties, Anomalous exponent and Generalized diffusion coefficient, on different scenarios.</br>
@@ -70,11 +70,11 @@ ___ has three major parameters to tune the quality of result, </br>
 > ___ takes around 1hr for the inference of 1,000 trajectories with default settings on a single L4 / RTX3090 chip. We don't recommend to the inference on large datasets without GPU or M1 / M2 chips.</br>
 
 
-<h3> To remake a result on AnDi2 dataset </h3>
+<h3> To remake results on AnDi2 final-phase datasets </h3>
 
 1. Clone the repository on your local device.</br>
 2. Download pre-trained [*models*](https://drive.google.com/file/d/1WF0eW8Co23-mKQiHNH-KHHK_lJiIW-WC/view?usp=sharing), place the *models* folder inside of *AnDi2_SU_FIONA* folder.</br>
-3. Run run_process script with python.</br>
+3. Run *run_process.py* script with python.</br>
 4. Results will be made on the *result_final_0* folder.
 
 
