@@ -1,4 +1,4 @@
-# AnDi2_SU_FIONA
+# Team AnDi2_SU_FIONA
 <h2>BI-ADD (Bottom-up Iterative Anomalous Diffusion Detector)</h2>
 
 > [!IMPORTANT]  
