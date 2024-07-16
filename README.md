@@ -9,11 +9,11 @@
 > - Pre-trained [models](https://drive.google.com/file/d/1WF0eW8Co23-mKQiHNH-KHHK_lJiIW-WC/view?usp=sharing)
 
 ---------------------------------------------------------------------------------------------------- </br>
-<b>*** This is a preset version of <h3><b>BI-ADD</b></h3> for [AnDi2 Challenge](http://andi-challenge.org/challenge-2024/#andi2seminar) final-phase datasets ***</b></br>
-The general version of the <h3><b>BI-ADD</b></h3> will be available soon.</br>
+<b>*** This is a preset version of <b>BI-ADD</b> for [AnDi2 Challenge](http://andi-challenge.org/challenge-2024/#andi2seminar) final-phase datasets ***</b></br>
+The general version of the <b>BI-ADD</b> will be available soon.</br>
 ---------------------------------------------------------------------------------------------------- </br>
 
-<h3><b>BI-ADD</b></h3> detects changepoints at single molecular trajectory level which follows fBm with two properties, Anomalous exponent(alpha) and Generalized diffusion coefficient(K), on different scenarios.</br>
+<b>BI-ADD</b> detects changepoints at single molecular trajectory level which follows fBm with two properties, Anomalous exponent(alpha) and Generalized diffusion coefficient(K), on different scenarios.</br>
 For the details of used data and scenarios, please check Andi2 Challenge[^1][^2].
 
 <h2>Visualized examples of changepoint detection from molecular trajectories</h2>
