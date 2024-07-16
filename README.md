@@ -6,6 +6,7 @@
 > - Python 3.10 or higher
 > - latest version of [scikit-learn](https://scikit-learn.org/stable/)[^3]
 > - latest version of [scikit-image](https://scikit-image.org/docs/stable/user_guide/install.html)[^4]
+> - Pre-trained [models](https://drive.google.com/file/d/1WF0eW8Co23-mKQiHNH-KHHK_lJiIW-WC/view?usp=sharing)
 
 ---------------------------------------------------------------------------------------------------- </br>
 <b>*** This is a preset version of ___ for [AnDi2 Challenge](http://andi-challenge.org/challenge-2024/#andi2seminar) final-phase datasets. ***</b></br>
