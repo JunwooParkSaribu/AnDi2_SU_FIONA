@@ -67,7 +67,7 @@ At first, <b>BI-ADD</b> builds prior distribution of alpha, K by splitting a tra
 </br></br>
 
 > [!NOTE]
-> <b>BI-ADD</b> takes around 1hr for the inference of 1,000 trajectories with default settings on a single L4 / RTX3090 chip. We don't recommend inferencing on large datasets without GPU or with M1 / M2 chips.</br></br>
+> <b>BI-ADD</b> takes around 1hr for the inference of 1,000 trajectories with default settings on a single L4 / RTX3090 chip. It's not recommended inferencing on large datasets without GPU or with M1 / M2 chips.</br></br>
 
 
 <h3> To remake results on AnDi2 final-phase datasets </h3>
