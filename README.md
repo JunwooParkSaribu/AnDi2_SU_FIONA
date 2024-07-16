@@ -1,4 +1,5 @@
 # AnDi2_SU_FIONA
+<h3>BI-ADD (Bottom-up Iterative Anomalous Diffusion Detector)</h3>
 
 > [!IMPORTANT]  
 > Requirements </br>
