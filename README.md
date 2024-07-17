@@ -75,6 +75,7 @@ At first, <b>BI-ADD</b> builds prior distribution of alpha, K by splitting a tra
 2. Download pre-trained [*models*](https://drive.google.com/file/d/1WF0eW8Co23-mKQiHNH-KHHK_lJiIW-WC/view?usp=sharing), place the *models* folder inside of *AnDi2_SU_FIONA* folder.</br>
 3. Run *run_process.py* script with python.</br>
 4. Results will be made in the *result_final_0* folder.
+* result_filnal_submission.zip contains the result of the AnDi2 final-phase.
 
 <h3> Contacts </h3>
 junwoo.park@sorbonne-universite.fr<br>
