@@ -63,11 +63,7 @@ At first, <b>BI-ADD</b> builds prior distribution of alpha, K by splitting a tra
 <b>(3) *Number of states*</b> in the prior distribution. (Default: 2 or 3) </br></br>
 (1) acts as an FN controller. low threshold decrease FN, but increase computational time. (2) is related to the transition probability between states of trajectories. When the transition events occur frequently, it needs to use small sizes of sliding windows instead of large windows. Unnecessary small sizes of sliding windows aren't helpful to increase the quality, it rather only increases the computational time. (3) is related to the hidden number of states of molecular trajectories. The default values of (1) and (2) are enough in general cases, however (3) need to be carefully chosen since it may produce many FP if we select too high number of states. To help choosing the number of sates for (3), we generate a plot of prior distribution after building it. then, we can select its number (2 or 3 in general cases). The estimations of alpha and K for each sub-trajectory are done with ConvLSTM[^5](3 features) and Dense[^6](1 feature) layers respectively.
 
-</br></br>
-
-> [!NOTE]
-> <b>BI-ADD</b> takes around 1hr for the inference of 1,000 trajectories with default settings on a single L4 / RTX3090 chip. It's not recommended inferencing on large datasets without GPU or with M1 / M2 chips.</br></br>
-
+</br>
 
 <h3> To remake results on AnDi2 final-phase datasets </h3>
 
