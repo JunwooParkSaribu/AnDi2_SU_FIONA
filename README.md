@@ -10,7 +10,7 @@
 
 ---------------------------------------------------------------------------------------------------- </br>
 <b>*** This is a preset version of <b>BI-ADD</b> for [AnDi2 Challenge](http://andi-challenge.org/challenge-2024/#andi2seminar) final-phase datasets ***</b></br>
-The general version of the <b>BI-ADD</b> will be available soon.</br>
+The general version of the <b>BI-ADD</b> is being updated [here](https://github.com/JunwooParkSaribu/BI_ADD?tab=readme-ov-file).</br>
 ---------------------------------------------------------------------------------------------------- </br>
 
 <b>BI-ADD</b> detects changepoints at single molecular trajectory level which follows fBm with two properties, Anomalous exponent(alpha) and Generalized diffusion coefficient(K), on different scenarios.</br>
